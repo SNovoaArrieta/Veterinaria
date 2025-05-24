@@ -6,7 +6,7 @@ Este proyecto es una aplicación interactiva desarrollada en **JavaScript** para
 
 Aplicar conceptos fundamentales de **asincronía** en JavaScript (`setTimeout`, callbacks, Promesas, async/await) mediante una interfaz de texto basada en `prompt`, `alert` y `console.log`.
 
----
+
 
 ## 🧩 Funcionalidades
 
@@ -19,7 +19,7 @@ Aplicar conceptos fundamentales de **asincronía** en JavaScript (`setTimeout`, 
 7. Ver todas las mascotas de un dueño por cédula (async/await)
 8. Salir del programa
 
----
+
 
 ## 🛠️ Tecnologías usadas
 
@@ -27,7 +27,7 @@ Aplicar conceptos fundamentales de **asincronía** en JavaScript (`setTimeout`, 
 - JavaScript 
 - Console API (alert, prompt, console.log)
 
----
+
 
 ## ⚙️ Cómo ejecutar el proyecto
 
@@ -35,7 +35,7 @@ Aplicar conceptos fundamentales de **asincronía** en JavaScript (`setTimeout`, 
 2. Abre el archivo `index.html` en tu navegador (doble clic o Live Server).
 3. Interactúa con el programa desde los cuadros de diálogo (`prompt`) y revisa la consola para la salida detallada (`console.log`).
 
----
+
 
 ## 🔄 Asincronía implementada
 
@@ -49,7 +49,7 @@ Aplicar conceptos fundamentales de **asincronía** en JavaScript (`setTimeout`, 
 | Ver mascotas de un dueño         | `async/await` + `setTimeout`  | 2 segundos             |
 
 
----
+
 
 ## 👩‍💻 Autora
 
