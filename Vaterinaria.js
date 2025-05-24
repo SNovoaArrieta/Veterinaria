@@ -8,7 +8,7 @@ function mostrarMenu() {
   let opcion;
   do {
     opcion = prompt(`
-*****  MENU  ***********
+*****  MENU  **********
 1. Registrar un nuevo dueño 
 2. Registrar una nueva mascota 
 3. Listar todas las mascotas
